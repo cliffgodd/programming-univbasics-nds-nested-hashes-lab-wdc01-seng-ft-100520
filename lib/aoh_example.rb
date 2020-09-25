@@ -21,7 +21,7 @@ end
 def literal_aoh
   [
     {
-      name: "Don Gately", 
+      name: "Don Gately",
       occupation: "Live-in Staff"
     }
     {
